@@ -2,7 +2,7 @@
   "name": "json-schema-wizard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/johnodev/json-schema-wizard",
+  "homepage": "https://johnodev.github.io/json-schema-wizard/",
   "dependencies": {
     "dot-prop-immutable": "^1.4.0",
     "gh-pages": "^2.0.0",
